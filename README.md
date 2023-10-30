@@ -9,6 +9,7 @@ Exemplo demonstrado na aula sobre JDBC.
 
 ## Como rodar
 1. Clone o repositório para sua máquina
-2. Importe o projeto na sua IDE
-3. Na classe ParametrosDaConexao, altere os parâmetros jdbcURL, user e password
-4. Execute as classes desejadas (Cada classe tem um método main)
+2. Rode o arquivo .sql do banco de dados que está no diretório scripts.
+3. Importe o projeto na sua IDE
+4. Na classe ParametrosDaConexao, altere os parâmetros jdbcURL, user e password
+5. Execute as classes desejadas (Cada classe tem um método main)
